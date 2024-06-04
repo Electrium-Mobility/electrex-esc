@@ -1,2 +1,1 @@
-# electrex-esc
-Carl W
+Project Contributors: Carl W, Alexander Hamersma
