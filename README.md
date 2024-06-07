@@ -1,1 +1,1 @@
-Project Contributors: Carl W, Alexander Hamersma, Peri G
+Project Contributors: Carl W, Alexander Hamersma
