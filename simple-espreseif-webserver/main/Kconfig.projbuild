@@ -1,0 +1,11 @@
+menu "WIFI"
+
+  config SSID
+    string "SSID"
+    default "MY SSID"
+  
+  config PASSWORD
+    string "PASSWORD"
+    default "MY PASSWORD"
+
+endmenu
